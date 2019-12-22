@@ -1,0 +1,19 @@
+{
+  "name": "grunt-ngdocs",
+  "version": "2.0.0",
+  "description": "ngdocs",
+  "dependencies": {
+    "creditcard-generator": "*",
+    "jasmine": "^3.5.0",
+    "jasmine-fail-fast": "^2.0.0",
+    "moment": "*",
+    "protractor-jasmine2-html-reporter": "*",
+    "ts-node": "^8.5.4",
+    "typescript": "^3.7.3",
+    "verbose": "^0.2.3"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-console": "^3.0.0"
+  }
+}
