@@ -7,7 +7,7 @@
 - First, to make run tests you must have next programs downloaded and installed:
 - [Node.js](https://nodejs.org/es/) download and install it, accept all during the installation there is no special steps. 
 - You will need Java [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [JRE](https://www.java.com/download/) with Linux there a lot of ways to install them, check this [LINK](https://community.spiceworks.com/how_to/126249-setting-up-protractor-on-ubuntu-14-04) which seems is helpful
-- [Git](https://git-scm.com/) also you will need a ssh key if need more info check this [LINK](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html) or check in google how handle this ;D
+- [Git](https://git-scm.com/) also you will need a ssh key if need more info check this [LINK](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html) for [LINUX](https://linuxize.com/post/how-to-install-git-on-ubuntu-18-04/) or check in google how handle this ;D
 
 # MAC OS
 
